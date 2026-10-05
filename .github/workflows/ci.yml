@@ -8,7 +8,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-      STOCK_LENS_DATA_DIR: ${{ runner.temp }}/stock-lens-test-data
+      STOCK_LENS_DATA_DIR: /tmp/stock-lens-test-data
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
