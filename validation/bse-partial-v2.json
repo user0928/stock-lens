@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "code": "920047",
+      "date": "2026-09-30",
+      "open": 15.33,
+      "close": 15.72,
+      "high": 16.13,
+      "low": 15.25,
+      "volume": 4842400,
+      "volume_unit": "股",
+      "raw_volume": 48424.0,
+      "raw_volume_unit": "手",
+      "amount": null,
+      "adjustment": "none",
+      "source": "腾讯证券",
+      "source_url": "https://gu.qq.com/bj920047",
+      "fetched_at": "2026-10-05T12:22:34+08:00",
+      "conflict": false,
+      "alternatives": []
+    }
+  ],
+  "status": {
+    "attempt_at": "2026-10-05T12:22:33+08:00",
+    "error": null,
+    "success_at": "2026-10-05T12:22:34+08:00",
+    "count": 1,
+    "coverage_start": "2026-09-30",
+    "coverage_end": "2026-09-30",
+    "state": "partial",
+    "source": "腾讯证券",
+    "adjustment": "none",
+    "warnings": [
+      "东方财富行情暂未取得：来源暂不可用",
+      "仅取得1个交易日；部分日期区间未返回行情，不代表完整历史"
+    ],
+    "missing_segments": [
+      [
+        "2013-06-16",
+        "2015-05-17"
+      ],
+      [
+        "2015-05-18",
+        "2017-04-17"
+      ],
+      [
+        "2017-04-18",
+        "2019-03-19"
+      ],
+      [
+        "2019-03-20",
+        "2021-02-17"
+      ],
+      [
+        "2021-02-18",
+        "2023-01-19"
+      ],
+      [
+        "2023-01-20",
+        "2024-12-20"
+      ]
+    ],
+    "refreshing": false,
+    "cached_at": "2026-10-05T12:22:34+08:00",
+    "has_cache": true
+  },
+  "adjustment": "none",
+  "volume_unit": "股",
+  "note": "不复权日行情。缺失日期不补值，未保证完整交易日覆盖。"
+}

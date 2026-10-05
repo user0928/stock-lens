@@ -1,0 +1,457 @@
+[
+  {
+    "code": "600000",
+    "name": "浦发银行",
+    "end_date": "2026-06-30",
+    "holders": 163327,
+    "disclosure_date": "2026-08-28",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600000%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:22:44+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521898.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521898.PDF",
+        "title": "上海浦东发展银行股份有限公司2026年半年度报告",
+        "page": 98,
+        "snippet": "00100.00--33305838300100.00其他------普通股股份总数33305838300100.00--33305838300100.006.1.2普通股股东情况6.1.2.1普通股股东总数单位：户报告期末普通股股东总数163327其中报告期末表决权恢复的优先股股东总数-报告期末持有特别表决权股份的股东总数-6.1.2.2前十名普通股股东、前十名流通股东（无限售条件股东）持股情况表单位：股股东名称报告期内增减期末持股数量比例（%）持有有限售条件股份数量质押/冻结股东性质上海国际集团有限公司-708683464121.28--国有法人中国移动通信集团广东有限公司-605349545018.18--国有法人富德生命人寿保险股份有限公司－传统-27794372748.35--境内非国有法"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521898.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "600000",
+    "name": "浦发银行",
+    "end_date": "2026-03-31",
+    "holders": 151091,
+    "disclosure_date": "2026-04-30",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600000%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:22:55+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261168.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261168.PDF",
+        "title": "上海浦东发展银行股份有限公司2026年第一季度报告",
+        "page": 3,
+        "snippet": "2026年第一季度报告3三、股东情况1.普通股股东情况单位：户报告期末普通股股东总数151091其中报告期末表决权恢复的优先股股东总数-报告期末持有特别表决权股份的股东总数-前十名普通股股东持股情况单位：股股东名称期末持股数量比例（%）持有有限售条件股份数量质押、标记或冻结数股东性质上海国际集团有限公司708683464121.28--国有法人中国移动通信集团广东有限公司605349545018.18--国有法人富德生命人寿保险股份有限公司－传统27794372748.35--境内非国有法人富德生命人寿保险股份有限公司－资本金17632323255.29--境内非国有法人中国东"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261168.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "600000",
+    "name": "浦发银行",
+    "end_date": "2025-12-31",
+    "holders": 122327,
+    "disclosure_date": "2026-03-31",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600000%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:22:56+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-03-31/1225062336.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225062336.PDF",
+        "title": "上海浦东发展银行股份有限公司2025年年度报告",
+        "page": 133,
+        "snippet": "0月27日到期。报告期内转股3953659998股报告期末公司普通股总股本增至33305838300股相关注册资本金的变更尚需报请国家金融监督管理总局核准。6.1.2普通股股东情况6.1.2.1普通股股东总数单位：户报告期末普通股股东总数122327其中报告期末表决权恢复的优先股股东总数-报告期末持有特别表决权股份的股东总数-年度报告披露日前上一月末普通股股东总数160813其中年度报告披露日前上一月末表决权恢复的优先股股东总数-年度报告披露日前上一月末持有特别表决权股份的股东总数-6.1.2.2前十名普通股股东、前十名流通股东（无限售条件股东）持股情况表单位：股股东名称报告期内增减期末持股数量比例（%）持有有限售条件股份数量质押/冻结股东性质上海国际集团有限公司+75551197070868346"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225062336.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "600519",
+    "name": "贵州茅台",
+    "end_date": "2026-06-30",
+    "holders": 296404,
+    "disclosure_date": "2026-08-15",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600519%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:12+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF",
+        "title": "贵州茅台2026年半年度报告",
+        "page": 23,
+        "snippet": "报告期后到半年报披露日期间发生股份变动对每股收益、每股净资产等财务指标的影响（如有）□适用√不适用4、公司认为必要或证券监管机构要求披露的其他内容□适用√不适用(二)限售股份变动情况□适用√不适用二、股东情况(一)股东总数：截至报告期末普通股股东总数(户)296404(二)截至报告期末前十名股东、前十名流通股东（或无限售条件股东）持股情况表单位：股前十名股东持股情况（不含通过转融通出借股份）股东名称（全称）报告期内增减期末持股数量比例(%)持有有限售条件股份数量质押、标记或冻结情况股东性质股份状态数量中国贵州茅台酒厂（集团）有限责任公司68128293554.50无国有法人贵州省国有资本运营有限责任公司569967774.56未知国有法人香港中央结算有限公司-1337188537116564.30未知未知贵州茅台"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "600519",
+    "name": "贵州茅台",
+    "end_date": "2026-03-31",
+    "holders": 243159,
+    "disclosure_date": "2026-04-25",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600519%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:17+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187851.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187851.PDF",
+        "title": "贵州茅台2026年第一季度报告",
+        "page": 3,
+        "snippet": "元。(五)经销商情况单位：个区域名称报告期末经销商数量年初至报告期末增加数量年初至报告期末减少数量国内20986261国外1242注：本期国内经销商数量变动主要为系列酒经销商。二、股东信息(一)普通股股东总数和表决权恢复的优先股股东数量及前十名股东持股情况表单位：股报告期末普通股股东总数243159报告期末表决权恢复的优先股股东总数（如有）前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质持股数量持股比例(%)持有有限售条件股份数量质押、标记或冻结情况股份状态数量中国贵州茅台酒厂（集团）有限责任公司国有法人68128293554.40无香港中央结算有限公司未知587330694.69未知贵州省国有资本运营有限责任公司国有法人569967774.55未知贵州茅台酒厂（集团）技术开发有限公司"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187851.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "600519",
+    "name": "贵州茅台",
+    "end_date": "2025-12-31",
+    "holders": 255892,
+    "disclosure_date": "2026-04-17",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22600519%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:17+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-17/1225114733.PDF",
+      "https://static.cninfo.com.cn/finalpage/2026-04-17/1225114741.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225114741.PDF",
+        "title": "贵州茅台2025年年度报告",
+        "page": 48,
+        "snippet": "明（存续期内利率不同的债券请分别说明）：□适用√不适用(二)公司股份总数及股东结构变动及公司资产和负债结构的变动情况□适用√不适用(三)现存的内部职工股情况□适用√不适用三、股东和实际控制人情况(一)股东总数截至报告期末普通股股东总数(户)255892年度报告披露日前上一月末的普通股股东总数(户)243159(二)截至报告期末前十名股东、前十名流通股东（或无限售条件股东）持股情况表单位：股前十名股东持股情况（不含通过转融通出借股份）股东名称（全称）报告期内增减期末持股数量比例(%)持有有限售条件股份数量质押、标记或冻结情况股东性质股份状态数量中国贵州茅台酒厂（集团）有限责任公司207135968128293554.40无国有法人贵州省国有资本运营有限责任公司569967774.55未知国有法人香港中"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225114741.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000001",
+    "name": "平安银行",
+    "end_date": "2026-06-30",
+    "holders": 450712,
+    "disclosure_date": "2026-08-15",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000001%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:33+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475344.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475344.PDF",
+        "title": "2026年半年度报告",
+        "page": 74,
+        "snippet": "第六章股份变动及股东情况73平安银行股份有限公司2026年半年度报告6.3股东数量及持股情况（单位：股）报告期末普通股股东总数450712户报告期末表决权恢复的优先股股东总数-前10名股东持股情况股东名称股东性质持股总数持股比例（%）报告期内增减持有有限售条件股份数量持有无限售条件股份数量质押、标记或冻结情况股份状态数量中国平安保险（集团）股份有限公司－集团本级－自有资金境内法人961854023649.56--9618540236--中国平安人寿保险股份有限公司－自有资金境内法人11861004886.11--1186100488--香港中央结算有限公司境外法人7368784103.80108587261-73687"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475344.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000001",
+    "name": "平安银行",
+    "end_date": "2026-03-31",
+    "holders": 457610,
+    "disclosure_date": "2026-04-25",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000001%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:40+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188741.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188741.PDF",
+        "title": "2026年一季度报告",
+        "page": 23,
+        "snippet": "22平安银行股份有限公司2026年第一季度报告第二节股东信息2.1普通股股东总数和表决权恢复的优先股股东数量及前十名股东持股情况表（单位：股）报告期末普通股股东总数457610户报告期末表决权恢复的优先股股东总数（如有）-前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质持股比例（%）持股数量持有有限售条件的股份数量质押、标记或冻结情况股份状态数量中国平安保险（集团）股份有限公司－集团本级－自有资金境内法人49.569618540236---中国平安人寿保险股份有限公司－自有资金境内法人6.111186100488---香港中央结算有限公司境外法人2.94570"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188741.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000001",
+    "name": "平安银行",
+    "end_date": "2025-12-31",
+    "holders": 441142,
+    "disclosure_date": "2026-03-21",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000001%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:41+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-03-21/1225022887.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-03-21/1225022887.PDF",
+        "title": "2025年年度报告",
+        "page": 99,
+        "snippet": "第六章股份变动及股东情况98平安银行股份有限公司2025年年度报告6.3股东和实际控制人情况6.3.1公司股东数量及持股情况（单位：股）报告期末普通股股东总数441142户年度报告披露日前上一月末的普通股股东总数462824户报告期末表决权恢复的优先股股东总数（如有）-年度报告披露日前上一月末表决权恢复的优先股股东总数（如有）-持股5%以上的股东或前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质报告期末持股数量持股比例（%）报告期内增减变动情况持有有限售条件的股份数量持有无限售条件的股份数量质押、标记或冻结情况股份状态数量中国平安保险（集团）股份有限公司－集团本级－自有资金境内法人961854023649.56--9618540236-"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-03-21/1225022887.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000858",
+    "name": "五粮液",
+    "end_date": "2026-06-30",
+    "holders": 714632,
+    "disclosure_date": "2026-08-29",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000858%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:50+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531252.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531252.PDF",
+        "title": "2026年半年度报告",
+        "page": 29,
+        "snippet": "指标的影响□适用不适用公司认为必要或证券监管机构要求披露的其他内容□适用不适用2、限售股份变动情况□适用不适用二、证券发行与上市情况□适用不适用三、公司股东数量及持股情况单位：股报告期末普通股股东总数714632报告期末表决权恢复的优先股股东总数（如有）（参见注8）0持股5%以上的股东或前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质持股比例报告期末持股数量报告期内增减变动情况持有有限售条件的股份数量持有无限售条件的股份数量质押、标记或冻结情况股份状态数量宜宾发展控股集团有限公司国有法人34.43%1336548020001336548020四川省宜宾五粮液集团有限公司国有法人20.68%80261927711160000802619277香港中央结算有限公司境外法人1.75%"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531252.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000858",
+    "name": "五粮液",
+    "end_date": "2026-03-31",
+    "holders": 676701,
+    "disclosure_date": "2026-04-30",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000858%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:55+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273099.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273099.PDF",
+        "title": "2026年一季度报告",
+        "page": 3,
+        "snippet": "宜宾五粮液股份有限公司2026年第一季度报告3二、股东信息（一）普通股股东总数和表决权恢复的优先股股东数量及前十名股东持股情况表单位：股报告期末普通股股东总数676701报告期末表决权恢复的优先股股东总数（如有）0前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质持股比例（%）持股数量持有有限售条件的股份数量质押、标记或冻结情况股份状态数量宜宾发展控股集团有限公司国有法人34.43%1336548020四川省宜宾五粮液集团有限公司国有法人20.65%801503277中国证券金融股份有限公司其他2.25%87164419香港中央结算有限公司境外法人2.10%8"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273099.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "000858",
+    "name": "五粮液",
+    "end_date": "2025-12-31",
+    "holders": 681426,
+    "disclosure_date": "2026-04-30",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22000858%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:23:56+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273123.PDF",
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273125.PDF",
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273126.PDF",
+      "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF",
+        "title": "2025年年度报告",
+        "page": 43,
+        "snippet": "用不适用2、公司股份总数及股东结构的变动、公司资产和负债结构的变动情况说明□适用不适用3、现存的内部职工股情况□适用不适用三、股东和实际控制人情况1、公司股东数量及持股情况单位：股报告期末普通股股东总数681426年度报告披露日前上一月末普通股股东总数676701报告期末表决权恢复的优先股股东总数（如有）（参见注8）0年度报告披露日前上一月末表决权恢复的优先股股东总数（如有）（参见注8）0持股5%以上的股东或前10名股东持股情况（不含通过转融通出借股份）股东名称股东性质持股比例报告期末持股数量报告期内增减变动情况持有有限售条件的股份数量持有无限售条件的股份数量质押、标记或冻结情况股份状态数量宜宾发展控股集团有限公司国有法人34.43%13365480201336548020四川省宜宾五粮液集团"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920047",
+    "name": "诺思兰德",
+    "end_date": "2026-06-30",
+    "holders": 9270,
+    "disclosure_date": "2026-08-26",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920047%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:07+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-26/1225514034.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225514034.PDF",
+        "title": "2026年半年度报告",
+        "page": 28,
+        "snippet": "8724.00%董事、高管188518376.87%-672086181797516.63%核心员工00.00%6720866720860.25%总股本274271974-0274271974-普通股股东人数9270股本结构变动情况：□适用√不适用"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225514034.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920047",
+    "name": "诺思兰德",
+    "end_date": "2026-03-31",
+    "holders": 6905,
+    "disclosure_date": "2026-04-23",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920047%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:12+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225171733.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225171733.PDF",
+        "title": "2026年一季度报告",
+        "page": 6,
+        "snippet": "68724.00%06582268724.00%董事、高管188518376.87%0188518376.87%核心员工00.00%000.00%总股本274271974-0274271974-普通股股东人数6905单位：股持股5%以上的股东或前十名股东情况序号股东名称股东性质期初持股数持股变动期末持股数期末持股比例%期末持有限售股份数量期末持有无限售股份数量1许松山境内自然人3649673003649673013.3068%3649673002许日山境内自然人2932595702932595710.6923%2932595703聂李亚境内自然人176559510176559516.4374%1765595104许成日境内自然人155320080155320085.663%0155320085马素永"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225171733.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920047",
+    "name": "诺思兰德",
+    "end_date": "2025-12-31",
+    "holders": 7594,
+    "disclosure_date": "2026-04-23",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920047%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:13+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225172382.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225172382.PDF",
+        "title": "2025年年度报告",
+        "page": 46,
+        "snippet": "68724.00%06582268724.00%董事、高管188518376.87%0188518376.87%核心员工00.00%000.00%总股本274271974-0274271974-普通股股东人数7594股本结构变动情况：□适用√不适用(二)持股5%以上的股东或前十名股东情况单位：股序号股东名称股东性质期初持股数持股变动期末持股数期末持股比例%期末持有限售股份数量期末持有无限售股份数量1许松山境内自然人3649673003649673013.31%3649673002许日山境内自然人2932595702932595710.69%2932595703聂李亚境内自然人176559510176559516.44%1765595104许成日境内自然人155320080155320085.66%0"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225172382.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920982",
+    "name": "锦波生物",
+    "end_date": "2026-06-30",
+    "holders": 9933,
+    "disclosure_date": "2026-08-25",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920982%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:20+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-08-25/1225503427.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225503427.PDF",
+        "title": "2026年半年度报告",
+        "page": 29,
+        "snippet": "控制人5082522944.17%05082522944.17%董事、高管13416821.17%013416821.17%核心员工00%000%总股本115065340-0115065340-普通股股东人数9933股本结构变动情况：□适用√不适用"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225503427.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920982",
+    "name": "锦波生物",
+    "end_date": "2026-03-31",
+    "holders": 11215,
+    "disclosure_date": "2026-04-29",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920982%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:25+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267866.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267866.PDF",
+        "title": "2026年一季度报告",
+        "page": 5,
+        "snippet": "2522944.17%05082522944.17%董事、高管13416821.17%013416821.17%核心员工00.00%000.00%总股本115065340-0115065340-普通股股东人数11215单位：股持股5%以上的股东或前十名股东情况序号股东名称股东性质期初持股数持股变动期末持股数期末持股比例%期末持有限售股份数量期末持有无限售股份数量1杨霞境内自然人62013705-6201370553.89%50825229111884762久视管理咨询（杭州）合伙企业（有境内非国有法人5753267-57532675%5753267-"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267866.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  },
+  {
+    "code": "920982",
+    "name": "锦波生物",
+    "end_date": "2025-12-31",
+    "holders": 11868,
+    "disclosure_date": "2026-04-29",
+    "source_url": "https://datacenter-web.eastmoney.com/api/data/v1/get?reportName=RPT_HOLDERNUM_DET&columns=ALL&filter=%28SECURITY_CODE%3D%22920982%22%29&pageSize=500&pageNumber=1&sortColumns=END_DATE&sortTypes=-1",
+    "status": "verified",
+    "reason": "已逐条复核对应报告期、普通股股东人数段落及巨潮公告披露日期；三项一致。",
+    "checked_at": "2026-10-05T01:24:27+08:00",
+    "candidate_urls": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267792.PDF",
+      "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267863.PDF"
+    ],
+    "evidence": [
+      {
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267792.PDF",
+        "title": "2025年年度报告",
+        "page": 43,
+        "snippet": "7288995082522944.17%董事、高管23244142.63%-98273213416821.17%核心员工00%000%总股本88511800-26553540115065340-普通股股东人数11868股本结构变动情况：√适用□不适用报告期内公司实施2024年年度权益分派向全体股东每10股转增3股每10股派20元人民币现金。分红前本公司总股本为88511800股分红后总股本增至115065340股。(二)持股5%以上的股东或前十名股东情况单位：股"
+      }
+    ],
+    "original_url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225267792.PDF",
+    "scope": "普通股股东总数",
+    "verification_method": "官方PDF文本抽查；非全历史核验，未做PDF页面图像复核"
+  }
+]

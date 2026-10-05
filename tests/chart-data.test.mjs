@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {priceAt,atOrBefore} from '../src/chartData.js';
+const prices=[{date:'2026-04-24',close:10},{date:'2026-04-27',close:11}];
+test('exact historical price stays attached to actual trading date',()=>assert.equal(priceAt(prices,'2026-04-24').exact.close,10));
+test('weekend is not silently relabeled as a trading day',()=>{const p=priceAt(prices,'2026-04-25');assert.equal(p.exact,null);assert.equal(p.previous.date,'2026-04-24')});
+test('no future price is used to fill missing history',()=>assert.deepEqual(priceAt(prices,'2026-04-23'),{exact:null,previous:null}));
+test('an empty price source is explicit',()=>assert.deepEqual(priceAt([],'2026-04-25'),{exact:null,previous:null}));
+test('non-disclosure date uses a labeled earlier record, never interpolation',()=>{const rows=[{end_date:'2026-03-31',holders:100},{end_date:'2026-06-30',holders:80}];assert.equal(atOrBefore(rows,'2026-04-15','end_date').holders,100);assert.equal(atOrBefore(rows,'2026-03-01','end_date'),null)});
+test('price conflict flag survives date lookup',()=>assert.equal(priceAt([{date:'2026-04-24',close:10,conflict:true}],'2026-04-24').exact.conflict,true));

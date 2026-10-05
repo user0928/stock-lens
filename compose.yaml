@@ -1,0 +1,12 @@
+services:
+  stock-lens:
+    build: .
+    ports:
+      - "127.0.0.1:8765:8765"
+    volumes:
+      - stock-lens-data:/app/data
+    restart: unless-stopped
+    environment:
+      FORWARDED_ALLOW_IPS: "${FORWARDED_ALLOW_IPS:-127.0.0.1}"
+volumes:
+  stock-lens-data:

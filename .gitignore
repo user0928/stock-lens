@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+dist/
+data/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.log
+validation/tests*.xml
+validation/*-checks.json
+validation/browser*.json
+validation/touch-extra*.json

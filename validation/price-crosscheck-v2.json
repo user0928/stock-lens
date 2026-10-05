@@ -1,0 +1,86 @@
+[
+  {
+    "code": "600000",
+    "date": "2025-12-31",
+    "tencent_close": 12.44,
+    "eastmoney_reported_close": 12.44,
+    "matched": true
+  },
+  {
+    "code": "600000",
+    "date": "2026-03-31",
+    "tencent_close": 10.18,
+    "eastmoney_reported_close": 10.18,
+    "matched": true
+  },
+  {
+    "code": "600000",
+    "date": "2026-06-30",
+    "tencent_close": 8.61,
+    "eastmoney_reported_close": 8.61,
+    "matched": true
+  },
+  {
+    "code": "600519",
+    "date": "2025-12-31",
+    "tencent_close": 1377.18,
+    "eastmoney_reported_close": 1377.18,
+    "matched": true
+  },
+  {
+    "code": "600519",
+    "date": "2026-03-31",
+    "tencent_close": 1450.0,
+    "eastmoney_reported_close": 1450,
+    "matched": true
+  },
+  {
+    "code": "600519",
+    "date": "2026-06-30",
+    "tencent_close": 1185.49,
+    "eastmoney_reported_close": 1185.49,
+    "matched": true
+  },
+  {
+    "code": "000001",
+    "date": "2025-12-31",
+    "tencent_close": 11.41,
+    "eastmoney_reported_close": 11.41,
+    "matched": true
+  },
+  {
+    "code": "000001",
+    "date": "2026-03-31",
+    "tencent_close": 11.08,
+    "eastmoney_reported_close": 11.08,
+    "matched": true
+  },
+  {
+    "code": "000001",
+    "date": "2026-06-30",
+    "tencent_close": 10.05,
+    "eastmoney_reported_close": 10.05,
+    "matched": true
+  },
+  {
+    "code": "000858",
+    "date": "2025-12-31",
+    "tencent_close": 105.94,
+    "eastmoney_reported_close": 105.94,
+    "matched": true
+  },
+  {
+    "code": "000858",
+    "date": "2026-03-31",
+    "tencent_close": 103.27,
+    "eastmoney_reported_close": 103.27,
+    "matched": true
+  },
+  {
+    "code": "000858",
+    "date": "2026-06-30",
+    "tencent_close": 74.0,
+    "eastmoney_reported_close": 74,
+    "matched": true
+  }
+]

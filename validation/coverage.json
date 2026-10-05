@@ -1,0 +1,50 @@
+[
+  {
+    "code": "600000",
+    "count": 61,
+    "first": "2013-03-07",
+    "last": "2026-06-30",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:22:44+08:00"
+  },
+  {
+    "code": "600519",
+    "count": 63,
+    "first": "2013-03-22",
+    "last": "2026-06-30",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:23:12+08:00"
+  },
+  {
+    "code": "000001",
+    "count": 68,
+    "first": "2013-03-01",
+    "last": "2026-06-30",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:23:33+08:00"
+  },
+  {
+    "code": "000858",
+    "count": 85,
+    "first": "2013-03-26",
+    "last": "2026-08-10",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:23:50+08:00"
+  },
+  {
+    "code": "920047",
+    "count": 41,
+    "first": "2013-06-30",
+    "last": "2026-06-30",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:24:07+08:00"
+  },
+  {
+    "code": "920982",
+    "count": 37,
+    "first": "2015-06-30",
+    "last": "2026-06-30",
+    "repeat_consistent": true,
+    "checked_at": "2026-10-05T01:24:20+08:00"
+  }
+]

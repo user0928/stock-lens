@@ -1,0 +1,383 @@
+.lens-chart {
+  margin-top: 16px;
+}
+.chart-info {
+  background: #eff5e8;
+  border: 1px solid #d5e3c7;
+  border-left: 3px solid #437b4b;
+  border-radius: 5px 10px 10px 5px;
+  padding: 15px 16px;
+  position: relative;
+  z-index: 2;
+}
+.card-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 11px;
+  color: #537648;
+}
+.card-top b {
+  font:
+    13px Consolas,
+    monospace;
+  color: #33592e;
+}
+.card-top > span:last-child {
+  margin-left: auto;
+  font-size: 10px;
+}
+.chart-facts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px 16px;
+  margin: 18px 0 14px;
+}
+.chart-facts > div {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+.chart-facts span {
+  color: #61764e;
+  font-size: 11px;
+}
+.chart-facts strong {
+  font:
+    26px Georgia,
+    "Songti SC",
+    "SimSun",
+    serif;
+  letter-spacing: -0.3px;
+}
+.chart-facts strong small {
+  font:
+    11px "Microsoft YaHei",
+    sans-serif;
+  color: #6e805d;
+}
+.chart-facts small {
+  font-size: 10px;
+  color: #647b51;
+  line-height: 1.7;
+}
+.price-read b {
+  font:
+    19px/1.5 Georgia,
+    "Microsoft YaHei",
+    serif;
+  color: #94703a;
+}
+.price-read span {
+  font-size: 11px;
+  color: #667952;
+}
+.price-read small {
+  display: block;
+  font-size: 10px;
+  color: #6b8058;
+}
+.card-bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 10px;
+  border-top: 1px solid #d8e4ca;
+  padding-top: 10px;
+  color: #637d4e;
+}
+.card-bottom a {
+  white-space: nowrap;
+}
+.chart-help {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 10px;
+  color: #69815b;
+  margin: 15px 0 0;
+  flex-wrap: wrap;
+}
+.echart {
+  width: 100%;
+  touch-action: pan-y;
+  cursor: grab;
+}
+.echart.dragging {
+  cursor: grabbing;
+}
+.chart-window {
+  font:
+    10px/1.8 Consolas,
+    "Microsoft YaHei",
+    monospace;
+  color: #617c51;
+  min-height: 20px;
+}
+.price-gap {
+  padding: 12px;
+  background: #f8f1df;
+  color: #886d40;
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+.hover-price {
+  border-top: 1px solid #d8e4ca;
+  margin-top: 10px;
+  padding-top: 9px;
+  min-height: 39px;
+  font-size: 10px;
+  line-height: 1.8;
+}
+.hover-price .price-read {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.hover-price b {
+  font-size: 15px;
+}
+.source-state {
+  background: #f0f4e9;
+  border: 1px solid #e3ead9;
+  border-radius: 7px;
+  padding: 10px 12px;
+  margin-top: 12px;
+  color: #627957;
+  font-size: 11px;
+  line-height: 1.8;
+}
+.source-state > div:first-child {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  align-items: center;
+}
+.source-state b {
+  font-weight: 600;
+  color: #47663d;
+}
+.source-state small {
+  font-size: 10px;
+  color: #687e5a;
+}
+.source-state details {
+  margin-top: 4px;
+  font-size: 10px;
+}
+.source-state summary {
+  cursor: pointer;
+}
+.source-state p {
+  font-size: 11px;
+  margin: 5px 0 0;
+  overflow-wrap: anywhere;
+}
+.source-warning {
+  background: #fbf5e7;
+  border-color: #ede1c5;
+  color: #8a7047;
+}
+.source-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.source-actions button {
+  font-size: 11px;
+  padding: 5px 8px;
+  margin-top: 7px;
+}
+.source-actions a {
+  font-size: 10px;
+}
+.insight-tabs {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 18px;
+  flex-wrap: wrap;
+}
+.event-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 14px;
+}
+.latest-banner {
+  margin-top: 14px;
+  padding: 11px 13px;
+  background: #f5efe0;
+  color: #856c40;
+  font-size: 12px;
+  border-radius: 6px;
+  line-height: 1.8;
+}
+.mention-toggle {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  color: #647854;
+  margin-top: 14px;
+  line-height: 1.8;
+}
+.news-excerpt {
+  font-size: 12px !important;
+  color: #596e50 !important;
+  line-height: 1.9 !important;
+  margin: 9px 0 !important;
+}
+.more-sources {
+  font-size: 11px;
+  color: #667f55;
+  margin-top: 10px;
+}
+.more-sources summary {
+  cursor: pointer;
+}
+.more-sources a {
+  display: block;
+  line-height: 2.1;
+}
+.timeline .empty button {
+  display: block;
+  margin: 15px auto 0;
+  font-size: 11px;
+}
+.source-state a,
+.more-sources a,
+.timeline h4 {
+  overflow-wrap: anywhere;
+}
+.timeline-tools {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding: 13px 0;
+  margin-top: 5px;
+  font-size: 11px;
+  color: #637b53;
+}
+.timeline-tools input {
+  min-width: 0;
+  width: 160px;
+  background: #f6f8f1;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 7px 9px;
+  font-size: 11px;
+}
+.load-more {
+  width: 100%;
+  margin-top: 14px;
+  font-size: 12px;
+}
+.legend {
+  display: flex;
+  gap: 16px;
+  font-size: 10px;
+  color: #627955;
+  margin-top: 13px;
+}
+.legend span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.legend i {
+  width: 14px;
+  height: 3px;
+  background: #236754;
+  display: block;
+}
+.legend span:last-child i {
+  background: #a6743e;
+}
+@media (min-width: 1101px) {
+  .chart-help span:last-child {
+    display: none;
+  }
+}
+@media (min-width: 701px) and (max-width: 1100px) {
+  .chart-facts {
+    grid-template-columns: 1fr 1fr 1.1fr 1.1fr;
+  }
+}
+@media (max-width: 700px) {
+  .chart-info {
+    padding: 13px 11px;
+  }
+  .card-top {
+    font-size: 10px;
+    gap: 7px;
+  }
+  .card-top b {
+    font-size: 12px;
+  }
+  .card-top > span:last-child {
+    font-size: 9px;
+  }
+  .chart-facts {
+    gap: 15px 11px;
+    margin: 15px 0;
+  }
+  .chart-facts strong {
+    font-size: 24px;
+  }
+  .chart-facts .price-read b {
+    font-size: 17px;
+  }
+  .chart-facts span {
+    font-size: 10px;
+  }
+  .card-bottom {
+    flex-wrap: wrap;
+    font-size: 10px;
+  }
+  .chart-help {
+    font-size: 9px;
+    gap: 4px;
+  }
+  .source-state {
+    font-size: 10px;
+    padding: 10px;
+  }
+  .source-state p {
+    font-size: 10px;
+  }
+  .chart-window {
+    font-size: 9px;
+  }
+  .mention-toggle {
+    font-size: 10px;
+  }
+  .source-label {
+    font-size: 10px;
+  }
+  .hover-price .price-read {
+    gap: 7px;
+  }
+  .hover-price b {
+    font-size: 13px;
+  }
+  .hover-price {
+    font-size: 10px;
+  }
+  .legend {
+    font-size: 10px;
+  }
+  .timeline-tools input {
+    width: 150px;
+  }
+}

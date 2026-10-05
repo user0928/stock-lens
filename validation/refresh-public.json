@@ -1,0 +1,5 @@
+{
+  "transientFailureKeepsLoadedData": true,
+  "refreshKeepsSelectedPoint": true,
+  "csvHasExactCounts": true
+}

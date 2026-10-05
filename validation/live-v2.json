@@ -1,0 +1,1043 @@
+{
+  "checked_at": "2026-10-05T12:10:49+08:00",
+  "prices": [
+    {
+      "code": "600000",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-31",
+        "2026-04-30",
+        "2026-06-30",
+        "2026-08-28"
+      ],
+      "status": {
+        "state": "fallback",
+        "source": "腾讯证券",
+        "adjustment": "none",
+        "warnings": [
+          "东方财富行情暂未取得：来源暂不可用"
+        ]
+      },
+      "rows": 170,
+      "evidence": [
+        {
+          "requested_date": "2025-12-31",
+          "exact": {
+            "code": "600000",
+            "date": "2025-12-31",
+            "open": 12.35,
+            "close": 12.44,
+            "high": 12.45,
+            "low": 12.14,
+            "volume": 82445900,
+            "volume_unit": "股",
+            "raw_volume": 824459.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600000",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-03-31",
+          "exact": {
+            "code": "600000",
+            "date": "2026-03-31",
+            "open": 10.01,
+            "close": 10.18,
+            "high": 10.28,
+            "low": 9.95,
+            "volume": 96580600,
+            "volume_unit": "股",
+            "raw_volume": 965806.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600000",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-04-30",
+          "exact": {
+            "code": "600000",
+            "date": "2026-04-30",
+            "open": 9.36,
+            "close": 9.27,
+            "high": 9.37,
+            "low": 9.25,
+            "volume": 78438800,
+            "volume_unit": "股",
+            "raw_volume": 784388.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600000",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-06-30",
+          "exact": {
+            "code": "600000",
+            "date": "2026-06-30",
+            "open": 8.69,
+            "close": 8.61,
+            "high": 8.7,
+            "low": 8.49,
+            "volume": 68434100,
+            "volume_unit": "股",
+            "raw_volume": 684341.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600000",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-08-28",
+          "exact": {
+            "code": "600000",
+            "date": "2026-08-28",
+            "open": 9.01,
+            "close": 9.0,
+            "high": 9.04,
+            "low": 8.95,
+            "volume": 58786800,
+            "volume_unit": "股",
+            "raw_volume": 587868.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600000",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        }
+      ]
+    },
+    {
+      "code": "600519",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-31",
+        "2026-04-17",
+        "2026-04-25",
+        "2026-06-30",
+        "2026-08-15"
+      ],
+      "status": {
+        "state": "fallback",
+        "source": "腾讯证券",
+        "adjustment": "none",
+        "warnings": [
+          "东方财富行情暂未取得：来源暂不可用"
+        ]
+      },
+      "rows": 160,
+      "evidence": [
+        {
+          "requested_date": "2025-12-31",
+          "exact": {
+            "code": "600519",
+            "date": "2025-12-31",
+            "open": 1390.0,
+            "close": 1377.18,
+            "high": 1394.0,
+            "low": 1377.17,
+            "volume": 3476600,
+            "volume_unit": "股",
+            "raw_volume": 34766.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-03-31",
+          "exact": {
+            "code": "600519",
+            "date": "2026-03-31",
+            "open": 1468.0,
+            "close": 1450.0,
+            "high": 1479.93,
+            "low": 1448.41,
+            "volume": 6169100,
+            "volume_unit": "股",
+            "raw_volume": 61691.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-04-17",
+          "exact": {
+            "code": "600519",
+            "date": "2026-04-17",
+            "open": 1400.0,
+            "close": 1407.24,
+            "high": 1421.0,
+            "low": 1399.87,
+            "volume": 9682500,
+            "volume_unit": "股",
+            "raw_volume": 96825.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-04-25",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "600519",
+            "date": "2026-04-24",
+            "open": 1413.1,
+            "close": 1458.49,
+            "high": 1458.88,
+            "low": 1413.1,
+            "volume": 5545500,
+            "volume_unit": "股",
+            "raw_volume": 55455.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        },
+        {
+          "requested_date": "2026-06-30",
+          "exact": {
+            "code": "600519",
+            "date": "2026-06-30",
+            "open": 1187.0,
+            "close": 1185.49,
+            "high": 1195.67,
+            "low": 1176.0,
+            "volume": 3960800,
+            "volume_unit": "股",
+            "raw_volume": 39608.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-08-15",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "600519",
+            "date": "2026-08-14",
+            "open": 1355.0,
+            "close": 1341.99,
+            "high": 1359.0,
+            "low": 1338.14,
+            "volume": 2985300,
+            "volume_unit": "股",
+            "raw_volume": 29853.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sh600519",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        }
+      ]
+    },
+    {
+      "code": "000001",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-21",
+        "2026-03-31",
+        "2026-04-25",
+        "2026-06-30",
+        "2026-08-15"
+      ],
+      "status": {
+        "state": "fallback",
+        "source": "腾讯证券",
+        "adjustment": "none",
+        "warnings": [
+          "东方财富行情暂未取得：来源暂不可用"
+        ]
+      },
+      "rows": 160,
+      "evidence": [
+        {
+          "requested_date": "2025-12-31",
+          "exact": {
+            "code": "000001",
+            "date": "2025-12-31",
+            "open": 11.48,
+            "close": 11.41,
+            "high": 11.49,
+            "low": 11.4,
+            "volume": 59062000,
+            "volume_unit": "股",
+            "raw_volume": 590620.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-03-21",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "000001",
+            "date": "2026-03-20",
+            "open": 10.87,
+            "close": 10.77,
+            "high": 10.94,
+            "low": 10.76,
+            "volume": 83408300,
+            "volume_unit": "股",
+            "raw_volume": 834083.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        },
+        {
+          "requested_date": "2026-03-31",
+          "exact": {
+            "code": "000001",
+            "date": "2026-03-31",
+            "open": 11.0,
+            "close": 11.08,
+            "high": 11.18,
+            "low": 10.99,
+            "volume": 116456500,
+            "volume_unit": "股",
+            "raw_volume": 1164565.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-04-25",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "000001",
+            "date": "2026-04-24",
+            "open": 10.98,
+            "close": 11.0,
+            "high": 11.03,
+            "low": 10.92,
+            "volume": 58271000,
+            "volume_unit": "股",
+            "raw_volume": 582710.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        },
+        {
+          "requested_date": "2026-06-30",
+          "exact": {
+            "code": "000001",
+            "date": "2026-06-30",
+            "open": 10.22,
+            "close": 10.05,
+            "high": 10.22,
+            "low": 10.04,
+            "volume": 111135300,
+            "volume_unit": "股",
+            "raw_volume": 1111353.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-08-15",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "000001",
+            "date": "2026-08-14",
+            "open": 11.22,
+            "close": 11.11,
+            "high": 11.23,
+            "low": 11.11,
+            "volume": 83234400,
+            "volume_unit": "股",
+            "raw_volume": 832344.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000001",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        }
+      ]
+    },
+    {
+      "code": "000858",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-31",
+        "2026-04-30",
+        "2026-06-30",
+        "2026-08-29"
+      ],
+      "status": {
+        "state": "fallback",
+        "source": "腾讯证券",
+        "adjustment": "none",
+        "warnings": [
+          "东方财富行情暂未取得：来源暂不可用"
+        ]
+      },
+      "rows": 170,
+      "evidence": [
+        {
+          "requested_date": "2025-12-31",
+          "exact": {
+            "code": "000858",
+            "date": "2025-12-31",
+            "open": 107.19,
+            "close": 105.94,
+            "high": 107.25,
+            "low": 105.61,
+            "volume": 20867700,
+            "volume_unit": "股",
+            "raw_volume": 208677.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000858",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-03-31",
+          "exact": {
+            "code": "000858",
+            "date": "2026-03-31",
+            "open": 105.0,
+            "close": 103.27,
+            "high": 105.8,
+            "low": 103.27,
+            "volume": 17834800,
+            "volume_unit": "股",
+            "raw_volume": 178348.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000858",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-04-30",
+          "exact": {
+            "code": "000858",
+            "date": "2026-04-30",
+            "open": 97.74,
+            "close": 97.08,
+            "high": 97.95,
+            "low": 97.0,
+            "volume": 24820900,
+            "volume_unit": "股",
+            "raw_volume": 248209.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000858",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-06-30",
+          "exact": {
+            "code": "000858",
+            "date": "2026-06-30",
+            "open": 73.5,
+            "close": 74.0,
+            "high": 74.92,
+            "low": 72.44,
+            "volume": 36265300,
+            "volume_unit": "股",
+            "raw_volume": 362653.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000858",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          },
+          "previous_if_missing": null
+        },
+        {
+          "requested_date": "2026-08-29",
+          "exact": null,
+          "previous_if_missing": {
+            "code": "000858",
+            "date": "2026-08-28",
+            "open": 71.12,
+            "close": 71.51,
+            "high": 71.69,
+            "low": 70.93,
+            "volume": 23036500,
+            "volume_unit": "股",
+            "raw_volume": 230365.0,
+            "raw_volume_unit": "手",
+            "amount": null,
+            "adjustment": "none",
+            "source": "腾讯证券",
+            "source_url": "https://gu.qq.com/sz000858",
+            "fetched_at": "2026-10-05T12:10:49+08:00"
+          }
+        }
+      ]
+    },
+    {
+      "code": "920047",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-31",
+        "2026-04-23",
+        "2026-06-30",
+        "2026-08-26"
+      ],
+      "status": {
+        "state": "unavailable",
+        "error": "东方财富行情暂未取得：来源暂不可用；该区间未取得日行情，不补零。"
+      },
+      "rows": 0
+    },
+    {
+      "code": "920982",
+      "checked_at": "2026-10-05T12:10:49+08:00",
+      "dates": [
+        "2025-12-31",
+        "2026-03-31",
+        "2026-04-29",
+        "2026-06-30",
+        "2026-08-25"
+      ],
+      "status": {
+        "state": "unavailable",
+        "error": "东方财富行情暂未取得：来源暂不可用；该区间未取得日行情，不补零。"
+      },
+      "rows": 0
+    }
+  ],
+  "news_600000": {
+    "count": 72,
+    "status": {
+      "state": "live",
+      "source": "东方财富新闻检索",
+      "warnings": [],
+      "fetched_candidates": 100,
+      "limit": 100,
+      "coverage_start": "2026-09-02",
+      "coverage_end": "2026-10-04",
+      "reading_url": "https://so.eastmoney.com/news/s?keyword=600000"
+    },
+    "samples": [
+      {
+        "id": "news:abe23fdf74edd82048cc4e26",
+        "code": "600000",
+        "title": "多家银行跟进！房贷贴息操作细则陆续披露",
+        "excerpt": "提及贴息标准问题时，浦发银行在回应细则中表示，按照《通知》要求，财政部门按照贷款本金给予年化1个百分点、期限不超过5年的贴息支持，单户可享受贴息的贷款规模上限为100万元。",
+        "published_at": "2026-10-04 16:48:28",
+        "published_date": "2026-10-04",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "券商中国",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202610043888549555.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "券商中国",
+            "url": "http://bank.eastmoney.com/a/202610043888549555.html",
+            "published_at": "2026-10-04 16:48:28"
+          }
+        ]
+      },
+      {
+        "id": "news:2f5fcd3da02fa0c469129649",
+        "code": "600000",
+        "title": "风向变了！年内8家中小银行评级被上调 释放什么信号？",
+        "excerpt": "具体包括，标普将交行及其三家核心子公司的长期评级由A－上调至A，并上调浦发银行长期评级至BBB+，民生银行及民生金租、华夏银行长期评级则被上调至BBB。 　　同时，标普将中信银行及信银（香港）投资评级展望由稳定调整为正面。",
+        "published_at": "2026-10-03 00:19:19",
+        "published_date": "2026-10-03",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "券商中国",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202610023888409628.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "券商中国",
+            "url": "http://bank.eastmoney.com/a/202610023888409628.html",
+            "published_at": "2026-10-03 00:19:19"
+          }
+        ]
+      },
+      {
+        "id": "news:cf80b10c8bbb17555d8d1f36",
+        "code": "600000",
+        "title": "多家银行继续明确房贷贴息操作细节：已审未发贷款可办理 5年期满需正常计息还款",
+        "excerpt": "对于贴息标准问题，浦发银行在公告中表示，按照《通知》要求，财政部门按照贷款本金给予年化1个百分点、期限不超过5年的贴息支持，单户可享受贴息的贷款规模上限为100万元。其进一步举例称，如果客户的房贷利率为3.05%且符合贴息条件，在贴息期间贷款将按照年化利率2.05%计算利息。",
+        "published_at": "2026-10-02 20:55:41",
+        "published_date": "2026-10-02",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "财联社",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202610023888388976.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "财联社",
+            "url": "http://bank.eastmoney.com/a/202610023888388976.html",
+            "published_at": "2026-10-02 20:55:41"
+          }
+        ]
+      },
+      {
+        "id": "news:b0fbbdf1e5afab664853b4ff",
+        "code": "600000",
+        "title": "事关房贷，今起实施！多家银行集体公告",
+        "excerpt": "明确自2026年10月1日至2028年12月31日，对相关债券业务费用实施减免 　　云计算服务提供商Nebius自10月1日起上调多项按需计算资源价格 　　财经新闻 　　1. 9月30日，工商银行、农业银行、中国银行、建设银行、邮储银行、交通银行六大国有银行，中信银行、光大银行、浦发银行等股份制银行",
+        "published_at": "2026-10-01 08:04:51",
+        "published_date": "2026-10-01",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "中国证券报",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202610013888186748.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "中国证券报",
+            "url": "http://bank.eastmoney.com/a/202610013888186748.html",
+            "published_at": "2026-10-01 08:04:51"
+          }
+        ]
+      },
+      {
+        "id": "news:209dc49c3a3319e9bd02ae3a",
+        "code": "600000",
+        "title": "中国银行、工商银行、建设银行等多家银行 创历史新高！",
+        "excerpt": "浦发银行涨3.27%、齐鲁银行涨2.74%、长沙银行涨2.43%。 　　中国银行盘中最高触及6.79元，创历史新高，收盘报6.73元，涨1.20%，其A股总市值达2.17万亿元。",
+        "published_at": "2026-09-30 22:34:14",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "央视财经",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202609303887922941.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "央视财经",
+            "url": "http://bank.eastmoney.com/a/202609303887922941.html",
+            "published_at": "2026-09-30 22:34:14"
+          }
+        ]
+      },
+      {
+        "id": "news:341beb9f68f8ab260d91901f",
+        "code": "600000",
+        "title": "总数跌破1000家！上市银行批量“收编”村镇银行",
+        "excerpt": "其一，主发起行吸收合并即“村改支”，如常熟银行、上海农商行的系列操作；其二，发起行解散后翻牌为母行网点，如民生银行、浦发银行的承继模式；其三，区域内横向整合，如“村并村”及省级农商行统一承接。",
+        "published_at": "2026-09-30 22:12:00",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "券商中国",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202609303887919585.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "券商中国",
+            "url": "http://bank.eastmoney.com/a/202609303887919585.html",
+            "published_at": "2026-09-30 22:12:00"
+          }
+        ]
+      },
+      {
+        "id": "news:860bbcd4798f055dd734b1bb",
+        "code": "600000",
+        "title": "购房贷款贴息政策快速落地，多家银行集体公告",
+        "excerpt": "9月30日，国庆假期前最后一个工作日，工商银行、农业银行、中国银行、建设银行、邮储银行、交通银行六大国有银行，中信银行、光大银行、浦发银行等股份制银行，以及北京银行、江苏银行、杭州银行等城商行集体发布关于落实居民购房贷款贴息政策的公告。",
+        "published_at": "2026-09-30 21:57:25",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "中国证券报",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202609303887910162.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "中国证券报",
+            "url": "http://bank.eastmoney.com/a/202609303887910162.html",
+            "published_at": "2026-09-30 21:57:25"
+          }
+        ]
+      },
+      {
+        "id": "news:01016d57b6997353acf14a3a",
+        "code": "600000",
+        "title": "远东股份AIDC光棒项目获无锡首单光通信制造银团贷款",
+        "excerpt": "该银团由江苏银行宜兴支行牵头，中国银行宜兴分行、浦发银行宜兴支行、交通银行宜兴支行参贷，银团总金额为9.3亿元，为无锡市首笔光通信行业制造项目银团贷款。",
+        "published_at": "2026-09-30 21:47:00",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报网",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://bank.eastmoney.com/a/202609303887906448.html",
+        "fetched_at": "2026-10-05T12:10:49+08:00",
+        "sources": [
+          {
+            "media": "证券时报网",
+            "url": "http://bank.eastmoney.com/a/202609303887906448.html",
+            "published_at": "2026-09-30 21:47:00"
+          }
+        ]
+      }
+    ]
+  },
+  "news_920047": {
+    "count": 60,
+    "status": {
+      "state": "live",
+      "source": "东方财富新闻检索",
+      "warnings": [],
+      "fetched_candidates": 100,
+      "limit": 100,
+      "coverage_start": "2026-08-26",
+      "coverage_end": "2026-09-30",
+      "reading_url": "https://so.eastmoney.com/news/s?keyword=920047"
+    },
+    "samples": [
+      {
+        "id": "news:fe3197e40ed321e62de9da01",
+        "code": "920047",
+        "title": "北交所成交活跃股：8股换手率超20%",
+        "excerpt": "19.38 -2.56 5.49 7855.24 920961 创远信科 21.52 -1.87 3.20 7818.48 920526 凯华材料 21.75 2.26 6.95 7767.51 920138 杰理科技 33.37 -1.33 6.69 7767.08 920047 诺思兰德",
+        "published_at": "2026-09-30 16:24:00",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报网",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://stock.eastmoney.com/a/202609303887734461.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券时报网",
+            "url": "http://stock.eastmoney.com/a/202609303887734461.html",
+            "published_at": "2026-09-30 16:24:00"
+          }
+        ]
+      },
+      {
+        "id": "news:258fd76e1fb0af0afa9277ad",
+        "code": "920047",
+        "title": "19只北交所股票获融资净买入超百万元",
+        "excerpt": "53.08 2.12 机械设备 920022 世昌股份 -8.55 406.83 52.00 0.97 汽车 920268 百迈科 -0.84 293.65 50.19 0.66 医药生物 920445 龙竹科技 0.55 1196.57 48.12 1.51 轻工制造 920047 诺思兰德",
+        "published_at": "2026-09-30 09:20:00",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报网",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://stock.eastmoney.com/a/202609303887475960.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券时报网",
+            "url": "http://stock.eastmoney.com/a/202609303887475960.html",
+            "published_at": "2026-09-30 09:20:00"
+          }
+        ]
+      },
+      {
+        "id": "news:1fdf47c020626c5c7bda61e5",
+        "code": "920047",
+        "title": "多家A股公司赴港上市“踩刹车” 港股IPO门槛抬升",
+        "excerpt": "据LiveReport统计，近一年已有盛新锂能、玲珑轮胎、紫光股份、科泰电源、华海清科、万兴科技、南都电源、华恒生物、诺思兰德、大洋电机、拉卡拉、三只松鼠、汉得信息、国航远洋等超过10家A股公司终止了香港上市计划。 　　企业暂缓港股上市计划，与当前新股市场环境息息相关。",
+        "published_at": "2026-09-30 07:25:36",
+        "published_date": "2026-09-30",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://finance.eastmoney.com/a/202609303886845644.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券时报",
+            "url": "http://finance.eastmoney.com/a/202609303886845644.html",
+            "published_at": "2026-09-30 07:25:36"
+          }
+        ]
+      },
+      {
+        "id": "news:23a6426eef297d98e6c110cb",
+        "code": "920047",
+        "title": "北交所成交活跃股排行榜",
+        "excerpt": "59.33 -1.53 10.47 4957.68 920081 欧伦电气 41.03 -2.89 6.98 4932.62 920580 科创新材 11.16 2.86 7.56 4816.16 920193 吉和昌 28.95 1.65 6.33 4630.66 920047 诺思兰德",
+        "published_at": "2026-09-29 17:02:00",
+        "published_date": "2026-09-29",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报网",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://stock.eastmoney.com/a/202609293886548188.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券时报网",
+            "url": "http://stock.eastmoney.com/a/202609293886548188.html",
+            "published_at": "2026-09-29 17:02:00"
+          }
+        ]
+      },
+      {
+        "id": "news:2a73bc489ac6dc01068f2adc",
+        "code": "920047",
+        "title": "诺思兰德：聘任张海智为财务总监",
+        "excerpt": "诺思兰德公告，因高洁兼任董事会秘书及财务总监不符合任职条件，其不再担任财务总监，继续担任董事、副总经理及董事会秘书。公司聘任张海智为新任财务总监，自2026年9月28日起生效。",
+        "published_at": "2026-09-28 22:11:36",
+        "published_date": "2026-09-28",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "direct",
+        "media": "财联社",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://finance.eastmoney.com/a/202609283885514191.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "财联社",
+            "url": "http://finance.eastmoney.com/a/202609283885514191.html",
+            "published_at": "2026-09-28 22:11:36"
+          }
+        ]
+      },
+      {
+        "id": "news:aaff01d8fb76031cd4e6bcff",
+        "code": "920047",
+        "title": "诺思兰德：高级管理人员变动公告",
+        "excerpt": "证券日报网讯9月28日，诺思兰德发布公告称，公司于2026年9月28日召开第七届董事会第七次会议审议通过了《关于变更公司财务总监的议案》，议案表决结果：同意9票；反对0票；弃权0票。",
+        "published_at": "2026-09-28 21:30:00",
+        "published_date": "2026-09-28",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "direct",
+        "media": "证券日报",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://finance.eastmoney.com/a/202609283885454512.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券日报",
+            "url": "http://finance.eastmoney.com/a/202609283885454512.html",
+            "published_at": "2026-09-28 21:30:00"
+          }
+        ]
+      },
+      {
+        "id": "news:cfdbd805d5d9a979bbfa4466",
+        "code": "920047",
+        "title": "诺思兰德：第七届董事会第七次会议决议公告",
+        "excerpt": "证券日报网讯9月28日，诺思兰德发布公告称，公司于2026年9月28日召开第七届董事会第七次会议，审议通过《关于变更公司财务总监的议案》。",
+        "published_at": "2026-09-28 21:30:00",
+        "published_date": "2026-09-28",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "direct",
+        "media": "证券日报",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://finance.eastmoney.com/a/202609283885453521.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券日报",
+            "url": "http://finance.eastmoney.com/a/202609283885453521.html",
+            "published_at": "2026-09-28 21:30:00"
+          }
+        ]
+      },
+      {
+        "id": "news:860fcc88d66751af57b60d44",
+        "code": "920047",
+        "title": "北交所成交活跃股排行榜",
+        "excerpt": "51.45 -5.94 5.15 5195.09 920289 华汇智能 26.77 -2.65 13.28 5125.21 920139 华岭股份 14.66 -4.12 1.28 4964.94 920223 荣亿精密 12.20 -6.15 4.69 4791.36 920047 诺思兰德",
+        "published_at": "2026-09-28 16:54:00",
+        "published_date": "2026-09-28",
+        "occurred_date": null,
+        "kind": "媒体报道",
+        "relation": "mention",
+        "media": "证券时报网",
+        "source": "东方财富新闻检索",
+        "source_role": "reprint",
+        "source_url": "http://stock.eastmoney.com/a/202609283885256733.html",
+        "fetched_at": "2026-10-05T12:10:51+08:00",
+        "sources": [
+          {
+            "media": "证券时报网",
+            "url": "http://stock.eastmoney.com/a/202609283885256733.html",
+            "published_at": "2026-09-28 16:54:00"
+          }
+        ]
+      }
+    ]
+  },
+  "announcements": {
+    "count": 13,
+    "status": {
+      "state": "live",
+      "source": "巨潮资讯",
+      "primary_issue": null,
+      "reading_url": "https://www.cninfo.com.cn/"
+    },
+    "samples": [
+      {
+        "id": "cninfo:1225396283",
+        "code": "600000",
+        "title": "上海浦东发展银行股份有限公司董事会2026年第七次会议决议公告",
+        "published_date": "2026-06-30",
+        "occurred_date": null,
+        "category": "其他公告",
+        "kind": "正式公告",
+        "source": "巨潮资讯",
+        "source_url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396283.PDF",
+        "excerpt": "上海浦东发展银行股份有限公司董事会2026年第七次会议决议公告",
+        "excerpt_type": "公告标题摘录",
+        "original_code": "600000",
+        "fetched_at": "2026-10-05T12:10:52+08:00"
+      },
+      {
+        "id": "cninfo:1225392362",
+        "code": "600000",
+        "title": "上海浦东发展银行股份有限公司2025年年度股东会决议公告",
+        "published_date": "2026-06-27",
+        "occurred_date": null,
+        "category": "其他公告",
+        "kind": "正式公告",
+        "source": "巨潮资讯",
+        "source_url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392362.PDF",
+        "excerpt": "上海浦东发展银行股份有限公司2025年年度股东会决议公告",
+        "excerpt_type": "公告标题摘录",
+        "original_code": "600000",
+        "fetched_at": "2026-10-05T12:10:52+08:00"
+      },
+      {
+        "id": "cninfo:1225392372",
+        "code": "600000",
+        "title": "上海市联合律师事务所关于上海浦东发展银行股份有限公司2025年年度股东会之法律意见书",
+        "published_date": "2026-06-27",
+        "occurred_date": null,
+        "category": "其他公告",
+        "kind": "正式公告",
+        "source": "巨潮资讯",
+        "source_url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392372.PDF",
+        "excerpt": "上海市联合律师事务所关于上海浦东发展银行股份有限公司2025年年度股东会之法律意见书",
+        "excerpt_type": "公告标题摘录",
+        "original_code": "600000",
+        "fetched_at": "2026-10-05T12:10:52+08:00"
+      }
+    ]
+  }
+}
